@@ -11,6 +11,7 @@
 		C35D4B6E26D92AAB001EA239 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35D4B6D26D92AAB001EA239 /* ContentView.swift */; };
 		C35D4B7026D92AAC001EA239 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C35D4B6F26D92AAC001EA239 /* Assets.xcassets */; };
 		C35D4B7326D92AAC001EA239 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C35D4B7226D92AAC001EA239 /* Preview Assets.xcassets */; };
+		C35D4B7B26D92F17001EA239 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35D4B7A26D92F17001EA239 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C35D4B6F26D92AAC001EA239 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C35D4B7226D92AAC001EA239 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C35D4B7426D92AAC001EA239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C35D4B7A26D92F17001EA239 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C35D4B6F26D92AAC001EA239 /* Assets.xcassets */,
 				C35D4B7426D92AAC001EA239 /* Info.plist */,
 				C35D4B7126D92AAC001EA239 /* Preview Content */,
+				C35D4B7A26D92F17001EA239 /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C35D4B6E26D92AAB001EA239 /* ContentView.swift in Sources */,
+				C35D4B7B26D92F17001EA239 /* MyModel.swift in Sources */,
 				C35D4B6C26D92AAB001EA239 /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
